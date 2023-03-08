@@ -14,6 +14,22 @@ The Viewpoints are organized as a Grid featuring [Domains](domains.md) as rows a
 
 The subsequent chapters give an overview over the SAF viewpoints. The specifications of the SAF viewpoints are available as [PDF](./pdfs) format, too.
 
+## Common Domain
+
+### Common Domain Objective
+
+The SAF Common Domain aims to provide information on model management and organization. 
+
+### Common Domain Concerns
+* Gain an understanding of eventual document deliverables that have to be provided by the development team
+* Provide information on additional modeling language libraries that are used in the system modeling process
+
+### Common Domain Viewpoints
+
+#### Common Domain Aspect Safety and Security
+* Required Safety Libraries Viewpoint
+* Safety Documents Viewpoint
+
 ## Operational Domain
 
 ### Operational Domain Objective
@@ -46,6 +62,9 @@ By identifying Stakeholders and their Requirements the SAF Operational Domain su
 * Operational Interaction Viewpoint
 #### Operational Domain Aspect Requirement
 * [Stakeholder Requirement Viewpoint](viewpoints/Stakeholder-Requirement-Viewpoint.md)
+#### Operational Domain Aspect Safety and Security
+* Operational Situation Viewpoint
+* Operational Hazard Identification Viewpoint
 #### Operational Domain Aspect Crossreference and Mapping
 * [Operational Process Traceability Viewpoint](viewpoints/Operational-Process-Traceability-Viewpoint.md)
 * Operational Capability Traceability Viewpoint
@@ -87,6 +106,11 @@ The Functional Domain Viewpoints translate Operational Domain usage into the not
 * [System Context Interaction Viewpoint](viewpoints/System-Context-Interaction-Viewpoint.md)
 #### Functional Domain Aspect Requirement
 * [System Requirement Viewpoint](viewpoints/System-Requirement-Viewpoint.md)
+#### Functional Domain Aspect Safety and Security
+* System Hazard Identification Viewpoint
+* System Hazard and Risk Analysis Viewpoint
+* System Functional Safety Requirements Viewpoint
+* System Functional Safety Requirements Traceability Viewpoint
 #### Functional Domain Aspect Crossreference and Mapping
 
 ## Logical Domain
@@ -111,6 +135,9 @@ The Logical Domain is not a different abstraction level - compared to the Functi
 #### Logical Domain Aspect Interaction and Collaboration
 * [Logical Internal Interaction Viewpoint](viewpoints/Logical-Internal-Interaction-Viewpoint.md)
 * [Logical Internal Exchange Viewpoint](viewpoints/Logical-Internal-Exchange-Viewpoint.md)
+#### Logical Domain Aspect Safety and Security
+* Technical Safety Requirements Breakdown Viewpoint
+* Logical Safety Effect Chain Viewpoint
 #### Functional Domain Aspect Crossreference and Mapping
 * [Logical Functional Assignment Viewpoint](viewpoints/Logical-Functional-Assignment-Viewpoint.md)
 
