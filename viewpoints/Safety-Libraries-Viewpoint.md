@@ -4,7 +4,7 @@
 | --- | --- | --- |
 |[Common](../domains.md#Domain-Common)|[Security & Safety](../aspects.md#Aspect-Security--Safety)|![Proposed](../diagrams/Under_construction_icon-red.svg)[proposed](../using-saf/maturity.md#proposed)|
 ## Example
-tbd
+![Exemplary Safety Libraries](../diagrams/SCV07a_SafetyLibraries.svg)
 ## Purpose
 The Safety Library Viewpoint
 * documents all used (external) model libraries which are applied in the model in order to analyse and document aspects of system safety
