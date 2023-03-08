@@ -63,7 +63,7 @@ By identifying Stakeholders and their Requirements the SAF Operational Domain su
 #### Operational Domain Aspect Requirement
 * [Stakeholder Requirement Viewpoint](viewpoints/Stakeholder-Requirement-Viewpoint.md)
 #### Operational Domain Aspect Safety and Security
-* [Operational Situation Viewpoint] (viewpoints/Operational-Situation-Viewpoint.md)
+* [Operational Situation Viewpoint](viewpoints/Operational-Situation-Viewpoint.md)
 * Operational Hazard Identification Viewpoint
 #### Operational Domain Aspect Crossreference and Mapping
 * [Operational Process Traceability Viewpoint](viewpoints/Operational-Process-Traceability-Viewpoint.md)
