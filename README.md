@@ -28,7 +28,7 @@ The SAF Common Domain aims to provide information on model management and organi
 
 #### Common Domain Aspect Safety and Security
 * [Safety Libraries Viewpoint](viewpoints/Safety-Libraries-Viewpoint.md)
-* Safety Documents Viewpoint
+* [Safety Documents Viewpoint](viewpoints/Safety-Documents-Viewpoint.md)
 
 ## Operational Domain
 
