@@ -27,6 +27,6 @@ A package diagram depicts the used model libraries with each having an assigned 
 * Allocate [SysML Profile]
 ## Input from other Viewpoints
 ### Required Viewpoints
-* N/A
+*none*
 ### Recommended Viewpoints
-* N/A
+*none*
