@@ -7,6 +7,7 @@
 ![Exemplary Safety Libraries](../diagrams/SCV07a_SafetyLibraries.svg)
 ## Purpose
 The Safety Library Viewpoint
+* enables the usage of safety model libraries in the system model
 * documents all used (external) model libraries which are applied in the model in order to analyse and document aspects of system safety
 * documents the reason why the safety model library is used to address the norm / standard.  
 ## Applicability
@@ -21,13 +22,11 @@ The Safety Library Viewpoint enables a model-based "System Safety Engineering" a
 ## Presentation
 A package diagram depicts the used model libraries with each having an assigned rational which explain the applicability and usage in the system model.
 ## Profile Model Reference
-* Association [UML_Standard_Profile]
-* Property [UML_Standard_Profile]
-* [SAF_LogicalElement](../stereotypes.md#SAF_LogicalElement)
-* [SAF_LogicalSOI](../stereotypes.md#SAF_LogicalSOI)
-* [SAF_SLV02a_View](../stereotypes.md#SAF_SLV02a_View)
+* ModelLibrary [SysML Profile]
+* Rational [SysML Profile]
+* Allocate [SysML Profile]
 ## Input from other Viewpoints
 ### Required Viewpoints
-* [System Functional Breakdown Structure Viewpoint](System-Functional-Breakdown-Structure-Viewpoint.md)
+* N/A
 ### Recommended Viewpoints
-* [System Process Viewpoint](System-Process-Viewpoint.md)
+* N/A
