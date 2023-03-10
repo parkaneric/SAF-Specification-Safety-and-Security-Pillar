@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20.96cm" height="10.50cm" viewBox="0 0 792 397">
+<title></title>
+<desc>Created with Enterprise Architect (Build: 1624) 2</desc>
+
+<g style="fill:#FFFFFF;fill-opacity:1.00;">
+	 <rect x="0" y="0" width="792" height="397" shape-rendering="auto"/>
+</g><g style="stroke-width:2;stroke-linecap:square;stroke-linejoin:miter; fill:#000000;fill-opacity:0.00; stroke:#B4B4B4; stroke-opacity:1.00">
+  <path d="M 10 10 L 10 387 L 782 387 L 782 10 L 10 10" shape-rendering="auto"/>
+</g>
+<g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#000000;fill-opacity:0.00; stroke:#9A8484; stroke-opacity:1.00">
+  <path d="M 10 10 L 10 387 L 782 387 L 782 10 L 10 10" shape-rendering="auto"/>
+</g>
+<g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#FFFFFF;fill-opacity:1.00; stroke:#9A8484; stroke-opacity:1.00">
+  <path d="M 10 30 L 244 30 L 257 16 L 257 10 L 10 10 Z" shape-rendering="auto"/>
+</g>
+<g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00">
+	<text x="15.00" y="23.00" textLength="15" style="font-family:Calibri; font-weight:700; font-style:normal; font-size:7pt; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 15.00 23.00)">bdd</text>
+	<text x="32.00" y="23.00" textLength="210" style="font-family:Calibri; font-weight:0; font-style:normal; font-size:7pt; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 32.00 23.00)">[package] 07_SafetySituations [07_SafetySituations]</text>
+</g>
+<g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#FDFAF7;fill-opacity:1.00; stroke:#9A8484; stroke-opacity:1.00">
+ <rect x="271" y="59" width="283" height="67" rx="0.00" shape-rendering="auto"  />
+</g>
+<g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00">
+	<text x="436.00" y="72.00" textLength="115" style="font-family:Calibri; font-weight:0; font-style:italic; font-size:7pt; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 436.00 72.00)">AbstractOperationalSituation</text>
+	<text x="366.00" y="91.00" textLength="92" style="font-family:Calibri; font-weight:0; font-style:normal; font-size:7pt; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 366.00 91.00)">«OperationalSituation»</text>
+	<text x="301.00" y="104.00" textLength="222" style="font-family:Calibri; font-weight:700; font-style:italic; font-size:7pt; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 301.00 104.00)">RAAML ISO 26262 Library::TypicalAutomotiveSituation</text>
+</g>
+<g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#FDFAF7;fill-opacity:1.00; stroke:#9A8484; stroke-opacity:1.00">
+ <rect x="271" y="165" width="283" height="185" rx="0.00" shape-rendering="auto"  />
+</g>
+<g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00">
+	<text x="366.00" y="181.00" textLength="92" style="font-family:Calibri; font-weight:0; font-style:normal; font-size:7pt; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 366.00 181.00)">«OperationalSituation»</text>
+	<text x="368.00" y="194.00" textLength="88" style="font-family:Calibri; font-weight:700; font-style:normal; font-size:7pt; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 368.00 194.00)">Approaching Bus Stop</text>
+</g>
+<g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#000000;fill-opacity:0.00; stroke:#9A8484; stroke-opacity:1.00">
+  <path d="M 271 202 L 553 202" shape-rendering="auto"/>
+</g>
+<g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00">
+	<text x="402.00" y="216.00" textLength="20" style="font-family:Calibri; font-weight:0; font-style:italic; font-size:7pt; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 402.00 216.00)">parts</text>
+	<text x="274.00" y="229.00" textLength="84" style="font-family:Calibri; font-weight:0; font-style:normal; font-size:7pt; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 274.00 229.00)"> busStation : Location</text>
+	<text x="274.00" y="242.00" textLength="113" style="font-family:Calibri; font-weight:0; font-style:normal; font-size:7pt; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 274.00 242.00)"> Decelerating : VehicleUsage</text>
+	<text x="274.00" y="255.00" textLength="99" style="font-family:Calibri; font-weight:0; font-style:normal; font-size:7pt; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 274.00 255.00)"> dryRoad : RoadCondition</text>
+	<text x="274.00" y="268.00" textLength="235" style="font-family:Calibri; font-weight:0; font-style:normal; font-size:7pt; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 274.00 268.00)"> non-mototistArroundOrInPathOfVehicle : TrafficAndPeople</text>
+	<text x="274.00" y="281.00" textLength="121" style="font-family:Calibri; font-weight:0; font-style:normal; font-size:7pt; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 274.00 281.00)"> roadNearBusStation : Location</text>
+	<text x="274.00" y="294.00" textLength="163" style="font-family:Calibri; font-weight:0; font-style:normal; font-size:7pt; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 274.00 294.00)"> sunnyWeather : EnvironmentalCondition</text>
+</g>
+<g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#000000;fill-opacity:0.00; stroke:#9A8484; stroke-opacity:1.00">
+  <path d="M 271 302 L 553 302" shape-rendering="auto"/>
+</g>
+<g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00">
+	<text x="400.00" y="316.00" textLength="25" style="font-family:Calibri; font-weight:0; font-style:italic; font-size:7pt; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 400.00 316.00)">values</text>
+	<text x="274.00" y="329.00" textLength="100" style="font-family:Calibri; font-weight:0; font-style:normal; font-size:7pt; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 274.00 329.00)"> Exposure : Exposure = E4</text>
+</g>
+<g style="stroke-width:2;stroke-linecap:round;stroke-linejoin:bevel; fill:#E5F2FE;fill-opacity:1.00; stroke:#0000CD; stroke-opacity:1.00">
+<ellipse cx="130.00" cy="258.00" rx="70.50" ry="47.00" shape-rendering="auto"  />
+</g>
+<g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00">
+	<text x="81.00" y="233.00" textLength="99" style="font-family:Calibri; font-weight:0; font-style:normal; font-size:7pt; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 81.00 233.00)">«SAF_OperationalStory»</text>
+	<text x="96.00" y="261.00" textLength="68" style="font-family:Calibri; font-weight:700; font-style:normal; font-size:7pt; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 96.00 261.00)">Serve a Bus Stop</text>
+</g>
+<g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#FFFFFF;fill-opacity:1.00; stroke:#658A99; stroke-opacity:1.00">
+  <polygon points="630 295 630 350 745 350 745 307 733 295" shape-rendering="auto"   style="fill-rule:evenodd;"/>
+</g>
+<g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#DCDCDC;fill-opacity:1.00; stroke:#658A99; stroke-opacity:1.00">
+  <polygon points="733 295 733 307 745 307" shape-rendering="auto"   style="fill-rule:evenodd;"/>
+</g>
+<g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#3C3C3C;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00">
+	<text x="665.00" y="305.00" textLength="45" style="font-family:Calibri; font-weight:0; font-style:normal; font-size:7pt; fill:#3C3C3C;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 665.00 305.00)">«rationale»</text>
+	<text x="635.00" y="319.00" textLength="97" style="font-family:Calibri; font-weight:0; font-style:normal; font-size:7pt; fill:#3C3C3C;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 635.00 319.00)">Main objective for public</text>
+	<text x="635.00" y="332.00" textLength="69" style="font-family:Calibri; font-weight:0; font-style:normal; font-size:7pt; fill:#3C3C3C;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 635.00 332.00)">transport service.</text>
+</g>
+<g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#000000;fill-opacity:0.00; stroke:#69738C; stroke-opacity:1.00">
+  <path d="M 412 165 L 412 126" shape-rendering="auto"/>
+</g>
+<g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#FAF1EC;fill-opacity:1.00; stroke:#69738C; stroke-opacity:1.00">
+  <polygon points="418 142 406 142 412 126" shape-rendering="auto"   style="fill-rule:evenodd;"/>
+</g>
+<g style="stroke-width:1;stroke-linecap:square;stroke-linejoin:round; fill:#000000;fill-opacity:0.00; stroke:#69738C; stroke-opacity:1.00" stroke-dasharray="6,3">
+  <path d="M 202 257 L 271 257 M 202 257" shape-rendering="auto"/>
+</g>
+<g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#000000;fill-opacity:0.00; stroke:#69738C; stroke-opacity:1.00">
+  <path d="M 217 252 L 202 257 L 217 262" shape-rendering="auto"/>
+</g>
+<g style="stroke-width:1;stroke-linecap:square;stroke-linejoin:round; fill:#000000;fill-opacity:0.00; stroke:#69738C; stroke-opacity:1.00" stroke-dasharray="6,3">
+  <path d="M 554 321 L 630 321 M 554 321" shape-rendering="auto"/>
+</g>
+<g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#000000;fill-opacity:0.00; stroke:#69738C; stroke-opacity:1.00">
+  <path d="M 569 316 L 554 321 L 569 326" shape-rendering="auto"/>
+</g>
+<g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00">
+	<text x="570.00" y="340.00" textLength="41" style="font-family:Calibri; font-weight:0; font-style:normal; font-size:7pt; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 570.00 340.00)">«allocate»</text>
+</g>
+</svg>
