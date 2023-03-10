@@ -4,7 +4,7 @@
 | --- | --- | --- |
 |[Operational](../domains.md#Domain-Operational)|[Safety and Security](../aspects.md#Aspect-security--safety)|![Under Construction](../diagrams/Under_construction_icon-yellow.svg )[under construction](../using-saf/maturity.md#under-construction)|
 ## Example
-*none*
+![OperationalSituation](../diagrams/SOV07a_OperationalSafetySituations.svg)
 ## Purpose
 The Operational Situation Viewpoints defines a taxonomy of typical Operational Situations which will occur throughout the lifecycle of the System of Interest and which are potentially relevant for safety analyses including composition relationships.
 In addition, it defines which Operational Stories act in the defined Operational Situations by means of interaction relationships.
