@@ -4,7 +4,8 @@
 | --- | --- | --- |
 |[Operational](../domains.md#Domain-Operational)|[Safety and Security](../aspects.md#Aspect-security--safety)|![Under Construction](../diagrams/Under_construction_icon-yellow.svg )[under construction](../using-saf/maturity.md#under-construction)|
 ## Example
-*none*
+![Malfunctioning Behavior](../diagrams/SFV07a_MalfunctioningBehavior.svg)
+![Accident Scenario](../diagrams/SFV07a_AccidentScenario.svg)
 ## Purpose
 The Hazard Identification Viewpoint supports in identifying potential hazards caused by the System of Interest based on Operational Situations and/or malfunction behavior.
 ## Applicability
