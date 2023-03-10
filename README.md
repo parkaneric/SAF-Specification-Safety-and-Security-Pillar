@@ -64,7 +64,7 @@ By identifying Stakeholders and their Requirements the SAF Operational Domain su
 * [Stakeholder Requirement Viewpoint](viewpoints/Stakeholder-Requirement-Viewpoint.md)
 #### Operational Domain Aspect Safety and Security
 * [Operational Situation Viewpoint](viewpoints/Operational-Situation-Viewpoint.md)
-* Operational Hazard Identification Viewpoint
+* [Hazard Identification Viewpoint](viewpoints/Hazard-Identification-Viewpoint.md)
 #### Operational Domain Aspect Crossreference and Mapping
 * [Operational Process Traceability Viewpoint](viewpoints/Operational-Process-Traceability-Viewpoint.md)
 * Operational Capability Traceability Viewpoint
@@ -107,7 +107,7 @@ The Functional Domain Viewpoints translate Operational Domain usage into the not
 #### Functional Domain Aspect Requirement
 * [System Requirement Viewpoint](viewpoints/System-Requirement-Viewpoint.md)
 #### Functional Domain Aspect Safety and Security
-* System Hazard Identification Viewpoint
+* [Hazard Identification Viewpoint](viewpoints/Hazard-Identification-Viewpoint.md)
 * System Hazard and Risk Analysis Viewpoint
 * [System Functional Safety Requirements Viewpoint](viewpoints/System-Functional-Safety-Requirements-Viewpoint.md)
 * System Functional Safety Requirements Traceability Viewpoint
