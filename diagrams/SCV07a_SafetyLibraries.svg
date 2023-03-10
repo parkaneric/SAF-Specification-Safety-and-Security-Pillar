@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
 
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="13.31cm" height="7.67cm" viewBox="0 0 503 290">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="13.92cm" height="9.47cm" viewBox="0 0 526 358">
 <title></title>
 <desc>Created with Enterprise Architect (Build: 1624) 2</desc>
 
 <g style="fill:#FFFFFF;fill-opacity:1.00;">
-	 <rect x="0" y="0" width="503" height="290" shape-rendering="auto"/>
+	 <rect x="0" y="0" width="526" height="358" shape-rendering="auto"/>
 </g><g style="stroke-width:2;stroke-linecap:square;stroke-linejoin:miter; fill:#000000;fill-opacity:0.00; stroke:#B4B4B4; stroke-opacity:1.00">
-  <path d="M 10 10 L 10 280 L 493 280 L 493 10 L 10 10" shape-rendering="auto"/>
+  <path d="M 10 10 L 10 348 L 516 348 L 516 10 L 10 10" shape-rendering="auto"/>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#000000;fill-opacity:0.00; stroke:#9A8484; stroke-opacity:1.00">
-  <path d="M 10 10 L 10 280 L 493 280 L 493 10 L 10 10" shape-rendering="auto"/>
+  <path d="M 10 10 L 10 348 L 516 348 L 516 10 L 10 10" shape-rendering="auto"/>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#FFFFFF;fill-opacity:1.00; stroke:#9A8484; stroke-opacity:1.00">
   <path d="M 10 30 L 255 30 L 268 16 L 268 10 L 10 10 Z" shape-rendering="auto"/>
@@ -20,62 +20,80 @@
 	<text x="15.00" y="23.00" textLength="15" style="font-family:Calibri; font-weight:700; font-style:normal; font-size:7pt; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 15.00 23.00)">pkg</text>
 	<text x="32.00" y="23.00" textLength="218" style="font-family:Calibri; font-weight:0; font-style:normal; font-size:7pt; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 32.00 23.00)">[package] 07_SafetySecurity [SCV07a_SafetyLibraries]</text>
 </g>
-<g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#FAF3F0;fill-opacity:1.00; stroke:#9A8484; stroke-opacity:1.00">
-  <polygon points="47 102 177 102 177 146 47 146 47 102" shape-rendering="auto"   style="fill-rule:evenodd;"/>
-  <polygon points="47 66 152 66 152 102 47 102 47 66" shape-rendering="auto"   style="fill-rule:evenodd;"/>
-</g>
-<g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00">
-	<text x="52.00" y="79.00" textLength="62" style="font-family:Calibri; font-weight:0; font-style:normal; font-size:7pt; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 52.00 79.00)">«modelLibrary»</text>
-	<text x="52.00" y="92.00" textLength="54" style="font-family:Calibri; font-weight:700; font-style:normal; font-size:7pt; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 52.00 92.00)">RAAML:2022</text>
-</g>
-<g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#FAF3F0;fill-opacity:1.00; stroke:#9A8484; stroke-opacity:1.00">
-  <polygon points="47 199 177 199 177 243 47 243 47 199" shape-rendering="auto"   style="fill-rule:evenodd;"/>
-  <polygon points="47 163 152 163 152 199 47 199 47 163" shape-rendering="auto"   style="fill-rule:evenodd;"/>
-</g>
-<g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00">
-	<text x="52.00" y="176.00" textLength="62" style="font-family:Calibri; font-weight:0; font-style:normal; font-size:7pt; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 52.00 176.00)">«modelLibrary»</text>
-	<text x="52.00" y="189.00" textLength="63" style="font-family:Calibri; font-weight:700; font-style:normal; font-size:7pt; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 52.00 189.00)">ISO26262:2015</text>
-</g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#FFFFFF;fill-opacity:1.00; stroke:#658A99; stroke-opacity:1.00">
-  <polygon points="274 71 274 146 456 146 456 83 444 71" shape-rendering="auto"   style="fill-rule:evenodd;"/>
+  <polygon points="297 85 297 160 479 160 479 97 467 85" shape-rendering="auto"   style="fill-rule:evenodd;"/>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#DCDCDC;fill-opacity:1.00; stroke:#658A99; stroke-opacity:1.00">
-  <polygon points="444 71 444 83 456 83" shape-rendering="auto"   style="fill-rule:evenodd;"/>
+  <polygon points="467 85 467 97 479 97" shape-rendering="auto"   style="fill-rule:evenodd;"/>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#3C3C3C;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00">
-	<text x="342.00" y="81.00" textLength="45" style="font-family:Calibri; font-weight:0; font-style:normal; font-size:7pt; fill:#3C3C3C;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 342.00 81.00)">«rationale»</text>
-	<text x="279.00" y="95.00" textLength="164" style="font-family:Calibri; font-weight:0; font-style:normal; font-size:7pt; fill:#3C3C3C;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 279.00 95.00)">As the SoI is relevant to Functional Safety</text>
-	<text x="279.00" y="108.00" textLength="102" style="font-family:Calibri; font-weight:0; font-style:normal; font-size:7pt; fill:#3C3C3C;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 279.00 108.00)">RAAML is used to address</text>
-	<text x="279.00" y="121.00" textLength="87" style="font-family:Calibri; font-weight:0; font-style:normal; font-size:7pt; fill:#3C3C3C;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 279.00 121.00)">- Hazard Identification</text>
-	<text x="279.00" y="134.00" textLength="103" style="font-family:Calibri; font-weight:0; font-style:normal; font-size:7pt; fill:#3C3C3C;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 279.00 134.00)">- Hazard and Risk Analysis</text>
+	<text x="365.00" y="95.00" textLength="45" style="font-family:Calibri; font-weight:0; font-style:normal; font-size:7pt; fill:#3C3C3C;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 365.00 95.00)">«rationale»</text>
+	<text x="302.00" y="109.00" textLength="164" style="font-family:Calibri; font-weight:0; font-style:normal; font-size:7pt; fill:#3C3C3C;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 302.00 109.00)">As the SoI is relevant to Functional Safety</text>
+	<text x="302.00" y="122.00" textLength="102" style="font-family:Calibri; font-weight:0; font-style:normal; font-size:7pt; fill:#3C3C3C;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 302.00 122.00)">RAAML is used to address</text>
+	<text x="302.00" y="135.00" textLength="90" style="font-family:Calibri; font-weight:0; font-style:normal; font-size:7pt; fill:#3C3C3C;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 302.00 135.00)">- Hazard Identification.</text>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#FFFFFF;fill-opacity:1.00; stroke:#658A99; stroke-opacity:1.00">
-  <polygon points="274 166 274 241 456 241 456 178 444 166" shape-rendering="auto"   style="fill-rule:evenodd;"/>
+  <polygon points="297 188 297 311 479 311 479 200 467 188" shape-rendering="auto"   style="fill-rule:evenodd;"/>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#DCDCDC;fill-opacity:1.00; stroke:#658A99; stroke-opacity:1.00">
-  <polygon points="444 166 444 178 456 178" shape-rendering="auto"   style="fill-rule:evenodd;"/>
+  <polygon points="467 188 467 200 479 200" shape-rendering="auto"   style="fill-rule:evenodd;"/>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#3C3C3C;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00">
-	<text x="342.00" y="176.00" textLength="45" style="font-family:Calibri; font-weight:0; font-style:normal; font-size:7pt; fill:#3C3C3C;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 342.00 176.00)">«rationale»</text>
-	<text x="279.00" y="190.00" textLength="150" style="font-family:Calibri; font-weight:0; font-style:normal; font-size:7pt; fill:#3C3C3C;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 279.00 190.00)">The ISO26262:2015 library as RAAML</text>
-	<text x="279.00" y="203.00" textLength="170" style="font-family:Calibri; font-weight:0; font-style:normal; font-size:7pt; fill:#3C3C3C;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 279.00 203.00)">extension  is used as the SoI is defined road</text>
-	<text x="279.00" y="216.00" textLength="161" style="font-family:Calibri; font-weight:0; font-style:normal; font-size:7pt; fill:#3C3C3C;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 279.00 216.00)">vehicle and therefore the norm applies in</text>
-	<text x="279.00" y="229.00" textLength="33" style="font-family:Calibri; font-weight:0; font-style:normal; font-size:7pt; fill:#3C3C3C;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 279.00 229.00)">general.</text>
+	<text x="365.00" y="198.00" textLength="45" style="font-family:Calibri; font-weight:0; font-style:normal; font-size:7pt; fill:#3C3C3C;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 365.00 198.00)">«rationale»</text>
+	<text x="302.00" y="212.00" textLength="150" style="font-family:Calibri; font-weight:0; font-style:normal; font-size:7pt; fill:#3C3C3C;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 302.00 212.00)">The ISO26262:2015 library as RAAML</text>
+	<text x="302.00" y="225.00" textLength="170" style="font-family:Calibri; font-weight:0; font-style:normal; font-size:7pt; fill:#3C3C3C;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 302.00 225.00)">extension  is used as the SoI is defined road</text>
+	<text x="302.00" y="238.00" textLength="161" style="font-family:Calibri; font-weight:0; font-style:normal; font-size:7pt; fill:#3C3C3C;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 302.00 238.00)">vehicle and therefore the norm applies in</text>
+	<text x="302.00" y="251.00" textLength="161" style="font-family:Calibri; font-weight:0; font-style:normal; font-size:7pt; fill:#3C3C3C;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 302.00 251.00)">general. The RAAML ISO26262 Library is</text>
+	<text x="302.00" y="264.00" textLength="65" style="font-family:Calibri; font-weight:0; font-style:normal; font-size:7pt; fill:#3C3C3C;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 302.00 264.00)">used to conduct:</text>
+	<text x="302.00" y="277.00" textLength="103" style="font-family:Calibri; font-weight:0; font-style:normal; font-size:7pt; fill:#3C3C3C;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 302.00 277.00)">- Hazard and Risk Analysis</text>
+	<text x="302.00" y="290.00" textLength="108" style="font-family:Calibri; font-weight:0; font-style:normal; font-size:7pt; fill:#3C3C3C;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 302.00 290.00)">- Functional Safety Concept</text>
+	<text x="302.00" y="303.00" textLength="104" style="font-family:Calibri; font-weight:0; font-style:normal; font-size:7pt; fill:#3C3C3C;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 302.00 303.00)">- Technical Safety Concept</text>
 </g>
-<g style="stroke-width:1;stroke-linecap:square;stroke-linejoin:round; fill:#000000;fill-opacity:0.00; stroke:#69738C; stroke-opacity:1.00" stroke-dasharray="6,3">
-  <path d="M 177 115 L 274 115 M 177 115" shape-rendering="auto"/>
-</g>
-<g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#000000;fill-opacity:0.00; stroke:#69738C; stroke-opacity:1.00">
-  <path d="M 192 110 L 177 115 L 192 120" shape-rendering="auto"/>
-</g>
-<g style="stroke-width:1;stroke-linecap:square;stroke-linejoin:round; fill:#000000;fill-opacity:0.00; stroke:#69738C; stroke-opacity:1.00" stroke-dasharray="6,3">
-  <path d="M 177 217 L 274 217 M 177 217" shape-rendering="auto"/>
-</g>
-<g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#000000;fill-opacity:0.00; stroke:#69738C; stroke-opacity:1.00">
-  <path d="M 192 212 L 177 217 L 192 222" shape-rendering="auto"/>
+<g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#FAF3F0;fill-opacity:1.00; stroke:#9A8484; stroke-opacity:1.00">
+  <polygon points="55 173 219 173 219 217 55 217 55 173" shape-rendering="auto"   style="fill-rule:evenodd;"/>
+  <polygon points="55 137 160 137 160 173 55 173 55 137" shape-rendering="auto"   style="fill-rule:evenodd;"/>
 </g>
 <g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00">
-	<text x="204.00" y="233.00" textLength="41" style="font-family:Calibri; font-weight:0; font-style:normal; font-size:7pt; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 204.00 233.00)">«allocate»</text>
-	<text x="209.00" y="127.00" textLength="41" style="font-family:Calibri; font-weight:0; font-style:normal; font-size:7pt; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 209.00 127.00)">«allocate»</text>
+	<text x="60.00" y="150.00" textLength="62" style="font-family:Calibri; font-weight:0; font-style:normal; font-size:7pt; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 60.00 150.00)">«modelLibrary»</text>
+	<text x="60.00" y="163.00" textLength="83" style="font-family:Calibri; font-weight:700; font-style:normal; font-size:7pt; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 60.00 163.00)">RAAML Core Library</text>
+</g>
+<g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#FAF3F0;fill-opacity:1.00; stroke:#9A8484; stroke-opacity:1.00">
+  <polygon points="55 79 219 79 219 123 55 123 55 79" shape-rendering="auto"   style="fill-rule:evenodd;"/>
+  <polygon points="55 43 204 43 204 79 55 79 55 43" shape-rendering="auto"   style="fill-rule:evenodd;"/>
+</g>
+<g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00">
+	<text x="60.00" y="56.00" textLength="62" style="font-family:Calibri; font-weight:0; font-style:normal; font-size:7pt; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 60.00 56.00)">«modelLibrary»</text>
+	<text x="60.00" y="69.00" textLength="134" style="font-family:Calibri; font-weight:700; font-style:normal; font-size:7pt; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 60.00 69.00)">RAAML General Concepts Library</text>
+</g>
+<g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#FAF3F0;fill-opacity:1.00; stroke:#9A8484; stroke-opacity:1.00">
+  <polygon points="55 267 219 267 219 311 55 311 55 267" shape-rendering="auto"   style="fill-rule:evenodd;"/>
+  <polygon points="55 231 176 231 176 267 55 267 55 231" shape-rendering="auto"   style="fill-rule:evenodd;"/>
+</g>
+<g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00">
+	<text x="60.00" y="244.00" textLength="62" style="font-family:Calibri; font-weight:0; font-style:normal; font-size:7pt; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 60.00 244.00)">«modelLibrary»</text>
+	<text x="60.00" y="257.00" textLength="106" style="font-family:Calibri; font-weight:700; font-style:normal; font-size:7pt; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 60.00 257.00)">RAAML ISO 26262 Library</text>
+</g>
+<g style="stroke-width:1;stroke-linecap:square;stroke-linejoin:round; fill:#000000;fill-opacity:0.00; stroke:#69738C; stroke-opacity:1.00" stroke-dasharray="6,3">
+  <path d="M 219 95 L 297 107 M 219 95" shape-rendering="auto"/>
+</g>
+<g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#000000;fill-opacity:0.00; stroke:#69738C; stroke-opacity:1.00">
+  <path d="M 235 92 L 219 95 L 233 102" shape-rendering="auto"/>
+</g>
+<g style="stroke-width:1;stroke-linecap:square;stroke-linejoin:round; fill:#000000;fill-opacity:0.00; stroke:#69738C; stroke-opacity:1.00" stroke-dasharray="6,3">
+  <path d="M 219 159 L 297 141 M 219 159" shape-rendering="auto"/>
+</g>
+<g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#000000;fill-opacity:0.00; stroke:#69738C; stroke-opacity:1.00">
+  <path d="M 232 151 L 219 159 L 235 160" shape-rendering="auto"/>
+</g>
+<g style="stroke-width:1;stroke-linecap:square;stroke-linejoin:round; fill:#000000;fill-opacity:0.00; stroke:#69738C; stroke-opacity:1.00" stroke-dasharray="6,3">
+  <path d="M 219 263 L 297 256 M 219 263" shape-rendering="auto"/>
+</g>
+<g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#000000;fill-opacity:0.00; stroke:#69738C; stroke-opacity:1.00">
+  <path d="M 233 257 L 219 263 L 234 267" shape-rendering="auto"/>
+</g>
+<g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00">
+	<text x="243.00" y="155.00" textLength="41" style="font-family:Calibri; font-weight:0; font-style:normal; font-size:7pt; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 243.00 155.00)">«allocate»</text>
+	<text x="243.00" y="271.00" textLength="41" style="font-family:Calibri; font-weight:0; font-style:normal; font-size:7pt; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 243.00 271.00)">«allocate»</text>
+	<text x="241.00" y="104.00" textLength="41" style="font-family:Calibri; font-weight:0; font-style:normal; font-size:7pt; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00 stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 241.00 104.00)">«allocate»</text>
 </g>
 </svg>
