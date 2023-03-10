@@ -21,8 +21,12 @@ The Operational Situation Viewpoint contributes to safety analyses for the syste
 
 ## Profile Model Reference
 * [SAF_OperationalStory](../stereotypes.md#SAF_OperationalStory)
+* OperationalSituation [RAAML Profile]
+* Allocate [SysML Profile]
+* Rational [SysML Profile]
 ## Input from other Viewpoints
 ### Required Viewpoints
-*none*
+* SCV07a Safety Library Viewpoint
 ### Recommended Viewpoints
-*none*
+* SOV01a Operational Story Viewpoint
+* SOV03a Operational Process Viewpoint
