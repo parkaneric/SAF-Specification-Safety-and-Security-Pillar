@@ -22,7 +22,7 @@ The Safety Library Viewpoint enables a model-based "System Safety Engineering" a
 ## Presentation
 A package diagram depicts the used model libraries with each having an assigned rational which explain the applicability and usage in the system model.
 ## Profile Model Reference
-* ModelLibrary [SysML Profile]
+* Model Library [SysML Profile]
 * Rational [SysML Profile]
 * Allocate [SysML Profile]
 ## Input from other Viewpoints
