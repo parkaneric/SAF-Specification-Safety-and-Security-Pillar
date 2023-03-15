@@ -4,7 +4,7 @@
 | --- | --- | --- |
 |[Operational](../domains.md#Domain-Operational)|[Safety and Security](../aspects.md#Aspect-security--safety)|![Under Construction](../diagrams/Under_construction_icon-yellow.svg )[under construction](../using-saf/maturity.md#under-construction)|
 ## Example
-*none*
+![HARA](../diagrams/SFV07b_HazardRiskAnalysis.svg)
 ## Purpose
 The System's Hazard and Risk Analysis evaluates identified Hazards and Risks according to safety integrity levels based on the exposure of the operational situation, the controllability of the accident scenario and the severity of the accident scenarios effect.
 ## Applicability
