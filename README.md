@@ -108,7 +108,7 @@ The Functional Domain Viewpoints translate Operational Domain usage into the not
 * [System Requirement Viewpoint](viewpoints/System-Requirement-Viewpoint.md)
 #### Functional Domain Aspect Safety and Security
 * [Hazard Identification Viewpoint](viewpoints/Hazard-Identification-Viewpoint.md)
-* [System Hazard and Risk Analysis Viewpoint](viewpoint/Hazard-Risk-Analysis-Viewpoint.md)
+* [System Hazard and Risk Analysis Viewpoint](viewpoints/Hazard-Risk-Analysis-Viewpoint.md)
 * [System Functional Safety Requirements Viewpoint](viewpoints/System-Functional-Safety-Requirements-Viewpoint.md)
 * System Functional Safety Requirements Traceability Viewpoint
 #### Functional Domain Aspect Crossreference and Mapping
