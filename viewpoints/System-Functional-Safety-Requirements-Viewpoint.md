@@ -22,7 +22,15 @@ The Safety Requirements Viewpoint enables a model-based "System Safety Engineeri
 ## Presentation
 A requirements diagram depicts the particular hazard and defines the according Safety Goal and derived Functional Safety Requirements.
 ## Profile Model Reference
-*none*
+* Situation [RAAML Profile]
+* IDCarrier [RAAML Profile]
+* SafetyGoal [RAAML Profile]
+* FunctionalSafetyRequirement [RAAML Profile] 
+* PartProperty [SysML Profile]
+* SafeState [RAAML Profile]
+* Prevention [RAAML Profile]
+* deriveReqt [SysML Profile]
+* State [UML_Standard_Profile]
 ## Input from other Viewpoints
 ### Required Viewpoints
 *none*
