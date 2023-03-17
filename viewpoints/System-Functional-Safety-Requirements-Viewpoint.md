@@ -4,7 +4,7 @@
 | --- | --- | --- |
 |[Common](../domains.md#Domain-Common)|[Security & Safety](../aspects.md#Aspect-Security--Safety)|![Proposed](../diagrams/Under_construction_icon-red.svg)[proposed](../using-saf/maturity.md#proposed)|
 ## Example
-![SafetyFunction](../diagrams/SFV07c_SafetyFunctionDerivation.svg.svg)
+![SafetyFunction](../diagrams/SFV07c_SafetyFunctionDerivation.svg)
 ## Purpose
 The Safety Requirements Viewpoint
 * identifies and defines the specific safety goal per hazard
